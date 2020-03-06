@@ -1,0 +1,473 @@
+{
+    "Monday": {
+        "Breakfast": [
+            {
+                "Name": "Rice and dishes",
+                "Content": [
+                    {
+                        "Name": "Riceberry (chinese bowl)",
+                        "Kcal": "107",
+                        "Protein": "2.4",
+                        "Fat": "0.9",
+                        "Carb": "22.1",
+                        "Fibre": "1.8"
+                    },
+                    {
+                        "Name": "Stir fried veg (chinese bowl)",
+                        "Kcal": "82",
+                        "Protein": "3.3",
+                        "Fat": "5.2",
+                        "Carb": "5.5",
+                        "Fibre": "1.5"
+                    },
+                    {
+                        "Name": "Fried peanuts (0.25, 36g)",
+                        "Kcal": "220",
+                        "Protein": "7.6",
+                        "Fat": "20.4",
+                        "Carb": "5.2",
+                        "Fibre": "2.7"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [
+            {
+                "Name": "Rice and Dishes",
+                "Content": [
+                    {
+                        "Name": "Riceberry (1 cup)",
+                        "Kcal": 178,
+                        "Protein": 18.2,
+                        "Fat": 23.37,
+                        "Carb": 59.43,
+                        "Fibre": 3
+                    },
+                    {
+                        "Name": "Stir fried tempeh (1cup)",
+                        "Kcal": 316,
+                        "Protein": 14.2,
+                        "Fat": 21.6,
+                        "Carb": 19.8,
+                        "Fibre": 1.2
+                    },
+                    {
+                        "Name": "Bok choy, boiled, 1 cup",
+                        "Kcal": "20",
+                        "Protein": "2.65",
+                        "Fat": "0.27",
+                        "Carb": "3.03",
+                        "Fibre": "1.7"
+                    },
+                    {
+                        "Name": "garlic, 1 clove",
+                        "Kcal": "4",
+                        "Protein": "0.2",
+                        "Fat": "0",
+                        "Carb": "1",
+                        "Fibre": "0.1"
+                    },
+                    {
+                        "Name": "oyster sauce, 1 tbsp",
+                        "Kcal": "9",
+                        "Protein": "0.2",
+                        "Fat": "0",
+                        "Carb": "2",
+                        "Fibre": "0.1"
+                    },
+                    {
+                        "Name": "olive oil, 1/2 tbsp",
+                        "Kcal": "61",
+                        "Protein": "0",
+                        "Fat": "6.8",
+                        "Carb": "0",
+                        "Fibre": "0"
+                    }
+                ]
+            }
+        ],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    },
+    "Tuesday": {
+        "Breakfast": [
+            {
+                "Name": "Rice and dishes",
+                "Content": [
+                    {
+                        "Name": "Riceberry (chinese bowl)",
+                        "Kcal": "107",
+                        "Protein": "2.4",
+                        "Fat": "0.9",
+                        "Carb": "22.1",
+                        "Fibre": "1.8"
+                    },
+                    {
+                        "Name": "Stir fried veg (chinese bowl)",
+                        "Kcal": "82",
+                        "Protein": "3.3",
+                        "Fat": "5.2",
+                        "Carb": "5.5",
+                        "Fibre": "1.5"
+                    },
+                    {
+                        "Name": "1 stir fried chicken breast 150g",
+                        "Kcal": "209",
+                        "Protein": "28.9",
+                        "Fat": "9",
+                        "Carb": "1.6",
+                        "Fibre": "0.4"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [
+            {
+                "Name": "Homemade Salad",
+                "Content": [
+                    {
+                        "Name": "Mixed veg salad (1 bowl) 190g",
+                        "Kcal": "52",
+                        "Protein": "2",
+                        "Fat": "0.3",
+                        "Carb": "9.9",
+                        "Fibre": "4.7"
+                    },
+                    {
+                        "Name": "cucumber slices (1/2 cup)",
+                        "Kcal": "8",
+                        "Protein": "0.3",
+                        "Fat": "0.1",
+                        "Carb": "1.9",
+                        "Fibre": "0.3"
+                    },
+                    {
+                        "Name": "sunflower sprouts (1/3 cup)",
+                        "Kcal": "5",
+                        "Protein": "1",
+                        "Fat": "0.2",
+                        "Carb": "1",
+                        "Fibre": "0"
+                    },
+                    {
+                        "Name": "fried onion (2 tsp)",
+                        "Kcal": "14.4",
+                        "Protein": "0.1",
+                        "Fat": "1.5",
+                        "Carb": "0.4",
+                        "Fibre": "0.1"
+                    },
+                    {
+                        "Name": "Dressing",
+                        "Kcal": "27.4",
+                        "Protein": "1.4",
+                        "Fat": "1.8",
+                        "Carb": "3.3",
+                        "Fibre": "0.4"
+                    },
+                    {
+                        "Name": "Mango (1/2 cup) 82g",
+                        "Kcal": "61",
+                        "Protein": "0.5",
+                        "Fat": "0.3",
+                        "Carb": "13.9",
+                        "Fibre": "1.6"
+                    },
+                    {
+                        "Name": "Cheese, Edam, 42g",
+                        "Kcal": "140",
+                        "Protein": "10",
+                        "Fat": "12",
+                        "Carb": "0",
+                        "Fibre": "0"
+                    },
+                    {
+                        "Name": "7eleven chicken, 2x garlic pepper",
+                        "Kcal": "160",
+                        "Protein": "34",
+                        "Fat": "1",
+                        "Carb": "4",
+                        "Fibre": "0"
+                    }
+                ]
+            }
+        ],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    },
+    "Wednesday": {
+        "Breakfast": [
+            {
+                "Name": "Rice and dishes",
+                "Content": [
+                    {
+                        "Name": "Riceberry (chinese bowl)",
+                        "Kcal": "107",
+                        "Protein": "2.4",
+                        "Fat": "0.9",
+                        "Carb": "22.1",
+                        "Fibre": "1.8"
+                    },
+                    {
+                        "Name": "Stir fried veg",
+                        "Kcal": "82",
+                        "Protein": "3.3",
+                        "Fat": "5.2",
+                        "Carb": "5.5",
+                        "Fibre": "1.5"
+                    },
+                    {
+                        "Name": "Fried tofu (2 chinese bowl)",
+                        "Kcal": "263",
+                        "Protein": "11.5",
+                        "Fat": "24",
+                        "Carb": "2.7",
+                        "Fibre": "0.4"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    },
+    "Thursday": {
+        "Breakfast": [
+            {
+                "Name": "Overnight oats, Dragonfruit",
+                "Content": [
+                    {
+                        "Name": "oats, 0.5 cup",
+                        "Kcal": "150",
+                        "Protein": "5.4",
+                        "Fat": "3",
+                        "Carb": "25.1",
+                        "Fibre": "4.4"
+                    },
+                    {
+                        "Name": "almond milk, 0.75 cup",
+                        "Kcal": "26",
+                        "Protein": "0.8",
+                        "Fat": "2.2",
+                        "Carb": "0.8",
+                        "Fibre": "3"
+                    },
+                    {
+                        "Name": "chia seed, 1tbsp",
+                        "Kcal": "47",
+                        "Protein": "1.6",
+                        "Fat": "3",
+                        "Carb": "4",
+                        "Fibre": "3.3"
+                    },
+                    {
+                        "Name": "honey, 1.5 tsp",
+                        "Kcal": "33",
+                        "Protein": "0",
+                        "Fat": "0",
+                        "Carb": "8.3",
+                        "Fibre": "0"
+                    },
+                    {
+                        "Name": "Peanut butter 1 tbsp",
+                        "Kcal": "100",
+                        "Protein": "4",
+                        "Fat": "8",
+                        "Carb": "3",
+                        "Fibre": "1"
+                    },
+                    {
+                        "Name": "dragon fruit 1/4 fruit",
+                        "Kcal": "30",
+                        "Protein": "1",
+                        "Fat": "1",
+                        "Carb": "4.5",
+                        "Fibre": "0.7"
+                    },
+                    {
+                        "Name": "banana (small 4.5\") 47g",
+                        "Kcal": "55",
+                        "Protein": "0.6",
+                        "Fat": "0.1",
+                        "Carb": "12.8",
+                        "Fibre": "0.8"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    },
+    "Friday": {
+        "Breakfast": [
+            {
+                "Name": "Overnight oats, berries",
+                "Content": [
+                    {
+                        "Name": "oats, 0.5 cup",
+                        "Kcal": "150",
+                        "Protein": "5.4",
+                        "Fat": "3",
+                        "Carb": "25.1",
+                        "Fibre": "4.4"
+                    },
+                    {
+                        "Name": "almond milk, 0.75 cup",
+                        "Kcal": "26",
+                        "Protein": "0.8",
+                        "Fat": "2.2",
+                        "Carb": "0.8",
+                        "Fibre": "3"
+                    },
+                    {
+                        "Name": "chia seed, 1tbsp",
+                        "Kcal": "47",
+                        "Protein": "1.6",
+                        "Fat": "3",
+                        "Carb": "4",
+                        "Fibre": "3.3"
+                    },
+                    {
+                        "Name": "honey, 1.5 tsp",
+                        "Kcal": "33",
+                        "Protein": "0",
+                        "Fat": "0",
+                        "Carb": "8.3",
+                        "Fibre": "0"
+                    },
+                    {
+                        "Name": "Peanut butter, 1tbsp",
+                        "Kcal": "100",
+                        "Protein": "4",
+                        "Fat": "8",
+                        "Carb": "3",
+                        "Fibre": "1"
+                    },
+                    {
+                        "Name": "frozen berries 0.25 cup",
+                        "Kcal": "20 ",
+                        "Protein": "0.2",
+                        "Fat": "0.1",
+                        "Carb": "4.2",
+                        "Fibre": "1.2"
+                    },
+                    {
+                        "Name": "banana (small 4.5\") 47g",
+                        "Kcal": "55",
+                        "Protein": "0.6",
+                        "Fat": "0.1",
+                        "Carb": "12.8",
+                        "Fibre": "0.8"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    },
+    "Saturday": {
+        "Breakfast": [
+            {
+                "Name": "Wholewheat roll",
+                "Content": [
+                    {
+                        "Name": "medium tortilla wrap, 38g",
+                        "Kcal": "83",
+                        "Protein": "2.2",
+                        "Fat": "1.1",
+                        "Carb": "17",
+                        "Fibre": "2.4"
+                    },
+                    {
+                        "Name": "mixed veg salad, 1 bowl 190g",
+                        "Kcal": "52",
+                        "Protein": "2",
+                        "Fat": "0.3",
+                        "Carb": "9.9",
+                        "Fibre": "4.7"
+                    },
+                    {
+                        "Name": "Grilled chicken breast, 1x, 207g",
+                        "Kcal": "264",
+                        "Protein": "46.2",
+                        "Fat": "7.1",
+                        "Carb": "0.8",
+                        "Fibre": "0.5"
+                    },
+                    {
+                        "Name": "Dressing (caesar) 1tbsp, 14g",
+                        "Kcal": "40",
+                        "Protein": "0.4",
+                        "Fat": "3.1",
+                        "Carb": "2.6",
+                        "Fibre": "0"
+                    },
+                    {
+                        "Name": "Avocado (1/4 pear)",
+                        "Kcal": "108",
+                        "Protein": "0.9",
+                        "Fat": "11.5",
+                        "Carb": "0.4",
+                        "Fibre": "3.4"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    },
+    "Sunday": {
+        "Breakfast": [
+            {
+                "Name": "Rice and dishes",
+                "Content": [
+                    {
+                        "Name": "Riceberry (chinese bowl)",
+                        "Kcal": "107",
+                        "Protein": "2.4",
+                        "Fat": "0.9",
+                        "Carb": "22.1",
+                        "Fibre": "1.8"
+                    },
+                    {
+                        "Name": "Stir fried veg",
+                        "Kcal": "82",
+                        "Protein": "3.3",
+                        "Fat": "5.2",
+                        "Carb": "55",
+                        "Fibre": "1.5"
+                    },
+                    {
+                        "Name": "Fried peanuts (20g)",
+                        "Kcal": "121",
+                        "Protein": "4.2",
+                        "Fat": "11.2",
+                        "Carb": "2.9",
+                        "Fibre": "1.5"
+                    },
+                    {
+                        "Name": "Fried tofu (1 chinese bowl)",
+                        "Kcal": "131.5",
+                        "Protein": "5.75",
+                        "Fat": "12",
+                        "Carb": "1.35",
+                        "Fibre": "0.2"
+                    }
+                ]
+            }
+        ],
+        "Lunch": [],
+        "Snack": [],
+        "Dinner": [],
+        "Supper": []
+    }
+}
